@@ -1,0 +1,19 @@
+img {width: 150px; border-radius:  100%}
+
+body {
+  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 150px;
+    padding: 50px;
+}
+
+.card {
+    color: gray;
+    background-color:rgb(238, 238, 238);
+    padding: 60px;
+    border-radius: 18px;
+}
